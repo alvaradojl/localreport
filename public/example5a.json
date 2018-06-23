@@ -1,0 +1,15 @@
+{
+    "nodes":[
+    {"name": "Advertiser1"},
+    {"name": "Agency1"},
+    {"name": "Agency2"},
+    {"name": "MediaOwner1"},
+    {"name": "MediaOwner2"}
+    ],
+    "links":[
+       {"source": 0, "target": 1, "value":1},  
+    {"source": 1, "target": 2, "value":1},
+    {"source": 1, "target": 3, "value":1},
+    {"source": 2, "target": 4, "value":1}        
+      ]
+  }
