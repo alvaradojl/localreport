@@ -1,0 +1,25 @@
+{
+    "cols":[
+        {"id":"","label":"Source","pattern":"","type":"string"},
+        {"id":"","label":"Destination","pattern":"","type":"string"},
+        {"id":"","label":"Orders","pattern":"","type":"number"}
+    ],
+    "rows":[
+    {"c":[{"v": "Advertiser1", "f":null},{ "v": "Agency1", "f":null} ,{ "v": 1, "f":null} ]},
+    {"c":[{"v": "Advertiser1", "f":null},{ "v": "Agency2", "f":null} ,{ "v": 1, "f":null} ]},
+    {"c":[{"v": "Advertiser1", "f":null},{ "v": "MediaOwner1", "f":null} ,{ "v": 1, "f":null} ]},
+ 
+
+    {"c":[{"v": "Agency1", "f":null},{ "v": "Agency3", "f":null} ,{ "v": 1, "f":null} ]},
+    {"c":[{"v": "Agency1", "f":null},{ "v": "MediaOwner2", "f":null} ,{ "v": 1, "f":null} ]},
+    {"c":[{"v": "Agency1", "f":null},{ "v": "Agency4", "f":null} ,{ "v": 1, "f":null} ]},
+
+    {"c":[{"v": "Agency2", "f":null},{ "v": "Agency4", "f":null} ,{ "v": 1, "f":null} ]},
+
+    {"c":[{"v": "Agency3", "f":null},{ "v": "MediaOwner3", "f":null} ,{ "v": 1, "f":null} ]},
+
+    {"c":[{"v": "Agency4", "f":null},{ "v": "MediaOwner4", "f":null} ,{ "v": 1, "f":null} ]}
+     
+    ]
+
+}

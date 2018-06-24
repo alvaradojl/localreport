@@ -4,12 +4,8 @@ d3.sankey = function() {
         nodePadding = 8,
         size = [1, 1],
         nodes = [],
-        links = []; 
+        links = [];
   
-   sankey.nodeId = function(_) {
-    return arguments.length ? (id = typeof _ === "function" ? _ : constant(_), sankey) : id;
-  };
-
     sankey.nodeWidth = function(_) {
       if (!arguments.length) return nodeWidth;
       nodeWidth = +_;
@@ -294,3 +290,4 @@ d3.sankey = function() {
   
     return sankey;
   };
+  
